@@ -11,6 +11,7 @@ public class WorkExp {
 	}
 	
 	public void displayWork(){
+		System.out.println("\n\nWork Experiences : ");
 		WorkExp job1 = new WorkExp("Technician");
 		WorkExp job2 = new WorkExp("Support Engineer");
 		System.out.println("\t 1." + job1.exp);
