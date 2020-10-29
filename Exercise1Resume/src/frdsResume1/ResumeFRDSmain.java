@@ -17,7 +17,6 @@ public class ResumeFRDSmain {
 		Skills s = new Skills();
 		Award a = new Award();
 		
-		
 		bio.displayBio();
 		cg.displayCGPA();
 		System.out.printf("Final CGPA is %.2f" , cg.calculateCGPA());
