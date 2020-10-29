@@ -5,6 +5,8 @@ public class Biodata {
 	char gender;
 	int age;
 	
+	//sadfghjk
+	
 	Biodata(){
 		this.name = "Mohd Firdaus";
 		this.gender = 'M';
