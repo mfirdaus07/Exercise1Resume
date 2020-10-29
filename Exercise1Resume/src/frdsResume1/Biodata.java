@@ -15,8 +15,4 @@ public class Biodata {
 		this.address = "No 21, Lorong Seri Serdang, 1/4 Taman Seri Serdang, 13200 Kepala Batas, Pulau Pinang";
 		this.hp = "019-7422400";
 	}
-	
-	public void displayBio(){
-		
-	}
 }
